@@ -24,16 +24,6 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Minitab](https://img.shields.io/badge/Minitab-009B77?style=for-the-badge&logoColor=white)
 
----
-
-### 📈 Featured Projects
-- 🏠 **Forecasting Michigan House Prices** – ARIMA & Exponential Smoothing in R  
-- 🎗️ **Breast Cancer Diagnosis Prediction** – SVM & Logistic Regression (98.25% accuracy)  
-- 🛍️ **Customer Purchase Behavior Analysis** – K-Means & Apriori Algorithm  
-- 🎓 **Student Grade Prediction** – Regression & ANOVA in Minitab  
-- 📊 **Data Visualization Dashboards** – Tableau & Power BI  
-
----
 
 📫 **Let’s Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mk2912)
